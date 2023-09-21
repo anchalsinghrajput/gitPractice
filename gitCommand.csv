@@ -1,0 +1,35 @@
+| git remote add <name> <url> | Add a new remote repository. |
+| --- | --- |
+| git remote remove <name> | Remove a remote repository. |
+| git remote rename <old> <new> | Rename a remote repository. |
+| git fetch <remote> | Fetch changes from a specific remote repository. |
+| git push <remote> <branch> | Push a branch to a specific remote repository. |
+| git pull <remote> <branch> | Pull changes from a remote repository into the current branch. |
+
+| git init | Initialize a new Git repository. |
+| --- | --- |
+| git clone <repository> | Clone a remote Git repository to your local machine. |
+| git status | Show the status of files in the repository. |
+| git add <file> | Stage a specific file for the next commit. |
+| git add . | Stage all changes in the current directory. |
+| git commit -m "message" | Create a new commit with a commit message. |
+| git diff | Show the differences between working directory and staging area. |
+| git log | View the commit history. |
+| git branch | List all branches in the repository. |
+| git checkout <branch> | Switch to a different branch. |
+| git checkout -b <branch> | Create and switch to a new branch. |
+| git merge <branch> | Merge changes from another branch into the current branch. |
+| git pull | Fetch changes from a remote repository and merge them into the current branch. |
+| git push | Push commits to a remote repository. |
+| git remote -v | List remote repositories configured for the current repo. |
+| git fetch | Download changes from a remote repository. |
+| git reset HEAD <file> | Unstage a file, keeping its changes. |
+| git reset --hard HEAD | Reset the branch and working directory to the last commit. |
+| git rm <file> | Remove a file from both the working directory and the repository. |
+| git mv <old> <new> | Rename a file and stage the change. |
+| git stash | Temporarily save changes that are not ready for commit. |
+| git stash pop | Apply the most recent stash and remove it from the stash list. |
+| git cherry-pick <commit> | Apply a specific commit to the current branch. |
+| git rebase <branch> | Reapply commits from one branch onto another. |
+| git tag <tagname> | Create a new tag for a specific commit. |
+| git blame <file> | Show who last modified each line of a file and when. |
