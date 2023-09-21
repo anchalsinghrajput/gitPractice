@@ -32,6 +32,8 @@
 | git cherry-pick <commit> | Apply a specific commit to the current branch. |
 | git rebase <branch> | Reapply commits from one branch onto another. |
 | git tag <tagname> | Create a new tag for a specific commit. |
-| git blame <file> | Show who last modified each line of a file and when. |
+| git blame <file> | Show who last modified each line of a file and when.
+jgksdjjgkdgd
+kjkj
 
 hello this is merge
